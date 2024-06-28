@@ -1,5 +1,5 @@
 AI Chatbot
-<p align=“center”> <img src=“screenshot.png” width=“500”> </p>
+![screenshot](https://github.com/ahsanibnewalid/Ai-Chat-website-Using-pure-js/assets/174036491/78c47ba5-e58d-450a-80e4-521053f6dfd8)
 
 Description
 The AI Chatbot project is a simple chatbot interface built using pure JavaScript. It responds to predefined user messages and provides fun interactions. Whether you’re curious about AI or just want to experiment, this project is a great starting point!
